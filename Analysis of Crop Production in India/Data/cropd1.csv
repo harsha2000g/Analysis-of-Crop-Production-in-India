@@ -1,0 +1,97 @@
+,Crop,Year,Production
+0,Rice,2004-05,100.0
+1,Rice,2005-06,101.0
+2,Rice,2006-07,99.0
+3,Rice,2007-08,105.0
+4,Rice,2008-09,112.0
+5,Rice,2009-10,121.0
+6,Rice,2010-11,117.0
+7,Rice,2011-12,110.0
+8,Wheat,2004-05,100.0
+9,Wheat,2005-06,101.0
+10,Wheat,2006-07,112.0
+11,Wheat,2007-08,115.0
+12,Wheat,2008-09,117.0
+13,Wheat,2009-10,127.0
+14,Wheat,2010-11,120.0
+15,Wheat,2011-12,108.0
+16,Coarse Cereals,2004-05,100.0
+17,Coarse Cereals,2005-06,107.0
+18,Coarse Cereals,2006-07,110.0
+19,Coarse Cereals,2007-08,115.0
+20,Coarse Cereals,2008-09,113.0
+21,Coarse Cereals,2009-10,123.0
+22,Coarse Cereals,2010-11,122.0
+23,Coarse Cereals,2011-12,136.0
+24,Pulses,2004-05,100.0
+25,Pulses,2005-06,108.0
+26,Pulses,2006-07,134.0
+27,Pulses,2007-08,124.0
+28,Pulses,2008-09,124.0
+29,Pulses,2009-10,146.0
+30,Pulses,2010-11,137.0
+31,Pulses,2011-12,129.0
+32,Vegetables ,2004-05,100.0
+33,Vegetables ,2005-06,109.0
+34,Vegetables ,2006-07,103.0
+35,Vegetables ,2007-08,118.0
+36,Vegetables ,2008-09,113.0
+37,Vegetables ,2009-10,124.0
+38,Vegetables ,2010-11,128.0
+39,Vegetables ,2011-12,115.0
+40,Fruits,2004-05,100.0
+41,Fruits,2005-06,99.0
+42,Fruits,2006-07,99.0
+43,Fruits,2007-08,98.0
+44,Fruits,2008-09,102.0
+45,Fruits,2009-10,104.0
+46,Fruits,2010-11,114.0
+47,Fruits,2011-12,119.0
+48,Milk,2004-05,100.0
+49,Milk,2005-06,97.0
+50,Milk,2006-07,98.0
+51,Milk,2007-08,98.0
+52,Milk,2008-09,98.0
+53,Milk,2009-10,112.0
+54,Milk,2010-11,123.0
+55,Milk,2011-12,124.0
+56,"Eggs, Fish and Meat",2004-05,100.0
+57,"Eggs, Fish and Meat",2005-06,102.0
+58,"Eggs, Fish and Meat",2006-07,101.0
+59,"Eggs, Fish and Meat",2007-08,100.0
+60,"Eggs, Fish and Meat",2008-09,99.0
+61,"Eggs, Fish and Meat",2009-10,116.0
+62,"Eggs, Fish and Meat",2010-11,133.0
+63,"Eggs, Fish and Meat",2011-12,137.0
+64,Oilseeds,2004-05,100.0
+65,Oilseeds,2005-06,86.0
+66,Oilseeds,2006-07,85.0
+67,Oilseeds,2007-08,97.0
+68,Oilseeds,2008-09,104.0
+69,Oilseeds,2009-10,103.0
+70,Oilseeds,2010-11,99.0
+71,Oilseeds,2011-12,102.0
+72,Sugarcane ,2004-05,100.0
+73,Sugarcane ,2005-06,96.0
+74,Sugarcane ,2006-07,91.0
+75,Sugarcane ,2007-08,87.0
+76,Sugarcane ,2008-09,80.0
+77,Sugarcane ,2009-10,81.0
+78,Sugarcane ,2010-11,109.0
+79,Sugarcane ,2011-12,107.0
+80,Fibers,2004-05,100.0
+81,Fibers,2005-06,92.0
+82,Fibers,2006-07,91.0
+83,Fibers,2007-08,96.0
+84,Fibers,2008-09,109.0
+85,Fibers,2009-10,107.0
+86,Fibers,2010-11,138.0
+87,Fibers,2011-12,140.0
+88,All Agriculture,2004-05,100.0
+89,All Agriculture,2005-06,99.0
+90,All Agriculture,2006-07,101.0
+91,All Agriculture,2007-08,104.0
+92,All Agriculture,2008-09,106.0
+93,All Agriculture,2009-10,115.0
+94,All Agriculture,2010-11,123.0
+95,All Agriculture,2011-12,122.0
